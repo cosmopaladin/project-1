@@ -1,5 +1,5 @@
 # project-1
-data science class project 1
+Repo for the first Project in data science bootcamp
 
 ## Stat Analysis
 Contained in the files
@@ -21,12 +21,13 @@ Contained in the files
 - https://www.kaggle.com/datasets/bingecode/us-national-flight-data-2015-2020
 
 ## Data cleaning
+- Some areas like NJ have large amounts of missing flight because they are grouped into metropolitan areas
+  - This data was removed during analysis
+- There is some unexplained 0 or empty values in this data that was removed
 
 ## Interesting Outliers, data cleaning, and caveats with the data sources
 - Alaska (As this is only domestic air travel, and there's no all in the US ground route. Plus weather)
 - Delaware (has odd/inconsistent flight scheduals)
-- Some areas like NJ have large amounts of missing flight because they are grouped into metropolitan areas
-  - This data was removed during analysis
 - The data sets used are not intended for production, but mostly for educational purposes
 - 2020 and years after not looked at because of the effects of covid on air travel
 
