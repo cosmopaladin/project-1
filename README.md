@@ -31,3 +31,6 @@ Contained in the files
 - The data sets used are not intended for production, but mostly for educational purposes
 - 2020 and years after not looked at because of the effects of covid on air travel
 
+![alt text](https://github.com/cosmopaladin/project-1/blob/main/fig_7_Airfare_Comparison_Boxplot.png?raw=true)
+
+
