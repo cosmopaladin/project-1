@@ -1,13 +1,18 @@
-# project-1
-Repo for the first Project in data science bootcamp
+# Project-1, How US GDP affects Airline Access
+Repo for the first Project in data science bootcamp. The members of group 7 are below.
+- Samson 
+- Lee 
+- Floris
+- Evan
+- Dimitry
 
-## Stat Analysis
+## Stat analysis
 Contained in the files
 - airfare.ipynb
 - evan.ipybn
 - Dimity.ipybn
 
-## Questions this Analysis attempts to cover
+## Questions this analysis attempts to cover
 - How does GDP growth and airfare prices relate over time?
 - Is there a clear relationship between flight demand and a state’s GDP?
 - Do wealthier states have higher or lower airline ticket prices?
@@ -25,7 +30,7 @@ Contained in the files
   - This data was removed during analysis
 - There is some unexplained 0 or empty values in this data that was removed
 
-## Interesting Outliers, and caveats with the data sources
+## Interesting outliers, and caveats with the data sources
 - Alaska (As this is only domestic air travel, and there's no all in the US ground route. Plus weather)
 - Delaware (has odd/inconsistent flight scheduals)
 - The data sets used are not intended for production, but mostly for educational purposes
