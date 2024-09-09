@@ -32,7 +32,8 @@ Contained in the files
 
 ## Interesting outliers, and caveats with the data sources
 - Alaska (As this is only domestic air travel, and there's no all in the US ground route. Plus weather)
-- Delaware (has odd/inconsistent flight schedules because it periodically does not have a commercial airport)- The data sets used are not intended for production, but mostly for educational purposes
+- Delaware (has odd/inconsistent flight schedules because it periodically does not have a commercial airport)
+- The data sets used are not intended for production, but mostly for educational purposes
 - 2020 and years after not looked at because of the effects of covid on air travel
 
 ## Example graphic from the project
