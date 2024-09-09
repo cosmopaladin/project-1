@@ -25,7 +25,7 @@ Contained in the files
   - This data was removed during analysis
 - There is some unexplained 0 or empty values in this data that was removed
 
-## Interesting Outliers, data cleaning, and caveats with the data sources
+## Interesting Outliers, and caveats with the data sources
 - Alaska (As this is only domestic air travel, and there's no all in the US ground route. Plus weather)
 - Delaware (has odd/inconsistent flight scheduals)
 - The data sets used are not intended for production, but mostly for educational purposes
