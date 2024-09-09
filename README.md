@@ -18,6 +18,10 @@ Contained in the files
 - Do wealthier states have higher or lower airline ticket prices?
 - Do lower-income states face higher airfare costs compared to wealthier states?
 
+## Geoapify API key sign up
+- Sign up for a free key below
+  - https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#geocode-cities
+- repalce the blank, "", in file api_key.py, geoapify_key = "", wtih your key to run this code
 ## Data sources
 - https://www.kaggle.com/datasets/bhavikjikadara/us-airline-flight-routes-and-fares-1993-2024
 - https://www.kaggle.com/datasets/solorzano/gdp-per-capita-in-us-states
@@ -38,5 +42,4 @@ Contained in the files
 
 ## Example graphic from the project
 ![alt text](https://github.com/cosmopaladin/project-1/blob/main/fig_7_Airfare_Comparison_Boxplot.png?raw=true)
-
 
