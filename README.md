@@ -43,3 +43,6 @@ Contained in the files
 ## Example graphic from the project
 ![alt text](https://github.com/cosmopaladin/project-1/blob/main/fig_7_Airfare_Comparison_Boxplot.png?raw=true)
 
+## Link to presentation slides
+- https://docs.google.com/presentation/d/13uZ2tHCJw-h_Gu4JMGkMOV4M2Q75OKlzUF7toytosKI/edit#slide=id.g2fb0d200239_0_76
+
